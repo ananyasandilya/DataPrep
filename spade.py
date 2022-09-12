@@ -91,5 +91,4 @@ for i in range(2,1000):
         print(itm,":",val)
         
     print()
-    l_last=li
-                            
+    l_last=li                     
